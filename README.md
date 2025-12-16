@@ -162,7 +162,9 @@ Low performers: Seafood, Breakfast, Hard Drinks continue to underperform across 
 5. Outlet Type Metrics
 
 Supermarket formats (Type 1, 2, 3) perform very similarly in sales (~$131K each), indicating format consistency.
+
 Grocery Stores have the highest Item Visibility (0.10) but lowest total sales, suggesting they are smaller but better merchandised.
+
 Average Sales and Rating are consistent across all outlet types (~$141, Rating 4).
 
 RECOMMENDATIONS
